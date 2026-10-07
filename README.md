@@ -56,11 +56,13 @@ complex state, real-time data, graphics and performance.
 
 | Product | What it does | Built with |
 |---|---|---|
+| [**Nexus SCADA**](https://nexus-scada.onrender.com/) | Full-stack HMI/SCADA platform with Modbus / MQTT drivers, ISA-18.2 alarms, a historian and a drag-and-drop graphics designer. | TypeScript · Node.js · React · SignalR · SQLite |
 | [**Remixt**](https://remixt-free.vercel.app) | Splits a song into vocals and beat, then lets you remix it. The Demucs model runs in the browser on WebGPU / WebAssembly. | Next.js · ONNX Runtime Web · Web Audio |
 | [**Khalabani**](https://khalabani.vercel.app) | Airbus A320 and Cessna 172 flight simulator with fly-by-wire, ECAM, MCDU and autoland. | Angular · Three.js |
 | [**Gridways**](https://gridways.vercel.app) | Mobile traffic-routing puzzle that ships in ~80 kB with zero runtime dependencies. | TypeScript · Canvas · Vite |
 | [**VasatYab**](https://vasatyab.vercel.app) | Finds a fair place for friends to meet. | Next.js · Auth.js · Prisma · Mapbox |
 | [**Siktir**](https://siktir-backend.onrender.com/) | Turns any link into a shareable button page. | Angular 18 · NestJS · Prisma |
+| [**StreetQuest**](https://streetquest-free.vercel.app) | GPS war game on real streets: build a base where you stand, then breach enemy bases in live first-person matches. | Next.js · Prisma · PostgreSQL · WebGL |
 | [**Project Island**](https://alitaherimotlagh.vercel.app) | My portfolio as a drivable 3D island with peer-to-peer races. | Three.js · WebRTC |
 
 ## Career
